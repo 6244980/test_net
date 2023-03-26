@@ -1,5 +1,5 @@
 <?php
 return array(
-come on!  888
+come on!  
 hello word~!
 );
